@@ -22,7 +22,7 @@ export default function Home() {
           ClipSave
         </div>
         <a
-          href="https://github.com/lesimoes/clip-save/releases"
+          href="https://github.com/lesimoes/clip-save/releases/download/v1.0.1/clip-save.zip"
           target="_blank"
           rel="noopener noreferrer"
           className="border border-[#F2502F] text-[#F2502F] px-4 py-2 rounded-full text-sm hover:bg-[#F2502F] hover:text-white transition-all"
@@ -53,7 +53,7 @@ export default function Home() {
           initial={{ opacity: 0 }}
           animate={{ opacity: 1 }}
           transition={{ delay: 0.8, duration: 0.6 }}
-          href="https://github.com/lesimoes/clip-save/releases"
+          href="https://github.com/lesimoes/clip-save/releases/download/v1.0.1/clip-save.zip"
           target="_blank"
           rel="noopener noreferrer"
           className="mt-10 px-6 py-3 border border-[#F2502F] text-[#F2502F] rounded-full text-lg hover:bg-[#F2502F] hover:text-white transition-all"
