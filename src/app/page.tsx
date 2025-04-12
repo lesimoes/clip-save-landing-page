@@ -5,7 +5,7 @@ import Image from 'next/image';
 import Link from 'next/link';
 
 const Highlight = ({ children }: { children: string }) => {
-  return <span className="text-[#F2502F] font-semibold">{children}</span>; // Laranja do ícone
+  return <span className="text-[#F2502F] font-semibold">{children}</span>;
 };
 
 export default function Home() {
