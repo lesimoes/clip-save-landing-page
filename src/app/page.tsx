@@ -10,7 +10,7 @@ const Highlight = ({ children }: { children: string }) => {
 
 export default function Home() {
   const appLink =
-    'https://github.com/lesimoes/clip-save/releases/download/v2.0.0/clip-save.zip';
+    'https://github.com/lesimoes/clip-save/releases/download/v2.0.1/clip-save.zip';
 
   return (
     <main className="bg-white text-black min-h-screen font-sans">
